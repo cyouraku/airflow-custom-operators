@@ -1,2 +1,0 @@
-# Test DataTransferToMysql Operator
-# TBD
